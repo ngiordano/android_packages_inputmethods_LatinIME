@@ -135,5 +135,11 @@
             <!-- android:persistent="true" -->
             <!-- android:defaultValue="false" /> -->
         </PreferenceScreen>
+        <CheckBoxPreference
+            android:key="volume_cursor"
+            android:title="@string/prefs_volume_cursor"
+            android:summary="@string/prefs_volume_cursor_summary"
+            android:persistent="true"
+            android:defaultValue="true" />
     </PreferenceCategory>
 </PreferenceScreen>

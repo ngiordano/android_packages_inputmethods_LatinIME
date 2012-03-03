@@ -346,4 +346,7 @@
     <string name="prefs_keypress_vibration_duration_settings">Keypress vibration duration settings</string>
     <!-- Title of the settings for keypress sound volume -->
     <string name="prefs_keypress_sound_volume_settings">Keypress sound volume settings</string>
+
+    <string name="prefs_volume_cursor">Volume keys as cursor</string>
+    <string name="prefs_volume_cursor_summary">Enable the volume keys to move the cursor while typing</string>
 </resources>
